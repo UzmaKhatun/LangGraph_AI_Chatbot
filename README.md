@@ -33,14 +33,14 @@ A clean frontend + powerful backend = seamless chatbot experience!
 
 ## 📂 Project Structure
 
-- ├── AI_Agent.py # LangGraph agent setup
-- ├── Backend.py # FastAPI backend server
-- ├── Frontend.py # Streamlit frontend UI
-- ├── app.py # Entry point to run the app
-- ├── requirements.txt # List of required Python packages
-- ├── .env # Environment variables (API keys) 
-- ├── venv/ # Virtual environment (not pushed)
-- ├── README.md # Project Documentation
+- ├── AI_Agent.py           # LangGraph agent setup
+- ├── Backend.py            # FastAPI backend server
+- ├── Frontend.py           # Streamlit frontend UI
+- ├── app.py                # Entry point to run the app
+- ├── requirements.txt      # List of required Python packages
+- ├── .env                  # Environment variables (API keys) 
+- ├── venv/                 # Virtual environment (not pushed)
+- ├── README.md             # Project Documentation
 
 ---
 
