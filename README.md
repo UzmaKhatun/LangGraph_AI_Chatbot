@@ -75,9 +75,9 @@ A clean frontend + powerful backend = seamless chatbot experience!
 ---
 
 ## 🙏 Acknowledgements
-- A heartfelt thank you to AIbyHassan on YouTube — this project wouldn’t have come to life without his insightful tutorials and guidance.
+- A heartfelt thank you to AI with Hassan on [YouTube Channel](https://www.youtube.com/@AI.with.Hassan) — this project wouldn’t have come to life without his insightful tutorials and guidance.
 - His content makes complex LangChain & multi-agent systems feel simple and achievable. If you're diving into AI agents, his videos are a must-watch!
-- 🎥 AI with Hassan - [YouTube Channel](https://www.youtube.com/@AI.with.Hassan)
+- I made a few customizations to better fit my learning goals — for example, I currently use only one model provider (Groq) instead of combining Groq and OpenAI as demonstrated in his tutorials.
 
 ---
 
