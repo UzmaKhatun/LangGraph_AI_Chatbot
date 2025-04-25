@@ -79,7 +79,7 @@ A clean frontend + powerful backend = seamless chatbot experience!
 - His content makes complex LangChain & multi-agent systems feel simple and achievable. If you're diving into AI agents, his videos are a must-watch!
 - 🎥 AI with Hassan - [YouTube Channel](https://www.youtube.com/@AI.with.Hassan)
 
---
+---
 
 ## 👨‍💻 Author
 - Made with ❤️ by Uzma Khatun
