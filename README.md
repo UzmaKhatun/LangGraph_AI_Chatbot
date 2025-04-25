@@ -5,6 +5,11 @@ A clean frontend + powerful backend = seamless chatbot experience!
 
 ---
 
+##📸 Screenshots
+### Chatbot Interface
+![Chatbot UI](./screenshots/screenshot.png)
+---
+
 ## 🛠️ Tech Stack
 
 - **Python 3.10**
