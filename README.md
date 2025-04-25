@@ -81,6 +81,6 @@ A clean frontend + powerful backend = seamless chatbot experience!
 
 --
 
-##👨‍💻 Author
-Made with ❤️ by Uzma Khatun
-Connect on LinkedIn[https://www.linkedin.com/in/uzma-khatun-88b990334/]
+## 👨‍💻 Author
+- Made with ❤️ by Uzma Khatun
+- Connect on LinkedIn[https://www.linkedin.com/in/uzma-khatun-88b990334/]
