@@ -5,7 +5,7 @@ A clean frontend + powerful backend = seamless chatbot experience!
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 ### Chatbot Interface
 ![Chatbot UI](./screenshots/screenshort.png)
 ---
