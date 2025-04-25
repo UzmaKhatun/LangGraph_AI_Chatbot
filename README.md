@@ -5,7 +5,7 @@ A clean frontend + powerful backend = seamless chatbot experience!
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 ### Chatbot Interface
 ![Chatbot UI](./screenshots/screenshort.png)
 ---
@@ -52,9 +52,9 @@ A clean frontend + powerful backend = seamless chatbot experience!
 
 ---
 
-## Install dependencies
-- GROQ_API_KEY=your_groq_api_key_here
-- TAVILY_API_KEY=your_tavily_api_key_here
+## Add your .env file 
+- GROQ_API_KEY = your_groq_api_key_here
+- TAVILY_API_KEY = your_tavily_api_key_here
 
 ---
 
