@@ -87,7 +87,7 @@ def main():
     allow_web_search = st.checkbox("Allow Web Search")
     user_query = st.text_area("Enter you query :", height=150, placeholder="Ask Anything!")
 
-    API_URL = "http://127.0.0.1:9999/chat"
+    API_URL = "https://ai-agent-backend-uzhn.onrender.com/chat"
 
     # ---------- Chat History Display ----------
     for entry in st.session_state.chat_history:
