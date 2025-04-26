@@ -76,8 +76,8 @@ A clean frontend + powerful backend = seamless chatbot experience!
 ## 🌐 Web App Links
 - Backend API (FastAPI) [Live](https://ai-agent-backend-uzhn.onrender.com/chat)
 - Frontend UI (Streamlit):
-- - On[Streamlit cloud](https://ai-agent-chatbot-s976w4cisf8m56dppyb7op.streamlit.app/)
-  - On[Hugging Face](https://huggingface.co/spaces/Uzma-Khatun/LangGraph_AI_Chatbot)
+- - On [Streamlit cloud](https://ai-agent-chatbot-s976w4cisf8m56dppyb7op.streamlit.app/)
+  - On [Hugging Face](https://huggingface.co/spaces/Uzma-Khatun/LangGraph_AI_Chatbot)
 
 ---
 
